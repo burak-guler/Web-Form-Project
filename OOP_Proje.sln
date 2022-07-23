@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Proje", "OOP_Proje\OOP_Proje.csproj", "{51527DD6-09CC-4788-89AA-9227004F3307}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitaplar", "Kitaplar\Kitaplar.csproj", "{6D0EDDD7-B000-4833-BA1B-7B5055F80368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51527DD6-09CC-4788-89AA-9227004F3307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51527DD6-09CC-4788-89AA-9227004F3307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51527DD6-09CC-4788-89AA-9227004F3307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51527DD6-09CC-4788-89AA-9227004F3307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D0EDDD7-B000-4833-BA1B-7B5055F80368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D0EDDD7-B000-4833-BA1B-7B5055F80368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D0EDDD7-B000-4833-BA1B-7B5055F80368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D0EDDD7-B000-4833-BA1B-7B5055F80368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CD7755D-9479-4357-91AA-449FF9454292}
+	EndGlobalSection
+EndGlobal

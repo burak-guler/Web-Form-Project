@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Desktop\Proje\OOP_Proje\Kitaplar\bin\Debug\Kitaplar.dll
+C:\Users\LENOVO\Desktop\Proje\OOP_Proje\Kitaplar\bin\Debug\Kitaplar.pdb
+C:\Users\LENOVO\Desktop\Proje\OOP_Proje\Kitaplar\obj\Debug\Kitaplar.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Proje\OOP_Proje\Kitaplar\obj\Debug\Kitaplar.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Proje\OOP_Proje\Kitaplar\obj\Debug\Kitaplar.dll
+C:\Users\LENOVO\Desktop\Proje\OOP_Proje\Kitaplar\obj\Debug\Kitaplar.pdb
